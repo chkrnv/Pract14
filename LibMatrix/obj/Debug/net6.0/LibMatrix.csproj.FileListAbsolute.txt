@@ -1,0 +1,12 @@
+C:\Users\Zalman\Desktop\project14-master\LibMatrix\bin\Debug\net6.0\LibMatrix.deps.json
+C:\Users\Zalman\Desktop\project14-master\LibMatrix\bin\Debug\net6.0\LibMatrix.dll
+C:\Users\Zalman\Desktop\project14-master\LibMatrix\bin\Debug\net6.0\LibMatrix.pdb
+C:\Users\Zalman\Desktop\project14-master\LibMatrix\obj\Debug\net6.0\LibMatrix.csproj.AssemblyReference.cache
+C:\Users\Zalman\Desktop\project14-master\LibMatrix\obj\Debug\net6.0\LibMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zalman\Desktop\project14-master\LibMatrix\obj\Debug\net6.0\LibMatrix.AssemblyInfoInputs.cache
+C:\Users\Zalman\Desktop\project14-master\LibMatrix\obj\Debug\net6.0\LibMatrix.AssemblyInfo.cs
+C:\Users\Zalman\Desktop\project14-master\LibMatrix\obj\Debug\net6.0\LibMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Zalman\Desktop\project14-master\LibMatrix\obj\Debug\net6.0\LibMatrix.dll
+C:\Users\Zalman\Desktop\project14-master\LibMatrix\obj\Debug\net6.0\refint\LibMatrix.dll
+C:\Users\Zalman\Desktop\project14-master\LibMatrix\obj\Debug\net6.0\LibMatrix.pdb
+C:\Users\Zalman\Desktop\project14-master\LibMatrix\obj\Debug\net6.0\ref\LibMatrix.dll
